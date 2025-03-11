@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'TacticSans-Med';
+	src: url('../fonts/tacticsans-med.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/tacticsans-med.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/tacticsans-med.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/tacticsans-med.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/tacticsans-med.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/tacticsans-med.svg#tacticsans-med') format('svg'); /* Chrome < 4, Legacy iOS */
+}
